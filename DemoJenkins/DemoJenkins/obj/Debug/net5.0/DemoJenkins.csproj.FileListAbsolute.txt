@@ -1,0 +1,16 @@
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\bin\Debug\net5.0\DemoJenkins.exe
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\bin\Debug\net5.0\DemoJenkins.deps.json
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\bin\Debug\net5.0\DemoJenkins.runtimeconfig.json
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\bin\Debug\net5.0\DemoJenkins.runtimeconfig.dev.json
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\bin\Debug\net5.0\DemoJenkins.dll
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\bin\Debug\net5.0\DemoJenkins.pdb
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.csproj.AssemblyReference.cache
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.AssemblyInfoInputs.cache
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.AssemblyInfo.cs
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.csproj.CoreCompileInputs.cache
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.dll
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\refint\DemoJenkins.dll
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.pdb
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\DemoJenkins.genruntimeconfig.cache
+D:\Cognizant\Hands-on\Jenkins\DemoJenkins\DemoJenkins\obj\Debug\net5.0\ref\DemoJenkins.dll
